@@ -1,4 +1,4 @@
-# Game
+# River Crossing Game
 
 Game made using PyGame for ISS course. 
 
